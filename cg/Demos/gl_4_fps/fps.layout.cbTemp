@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src\Frames.h" open="1" top="0" tabpos="2">
+		<Cursor position="168" topLine="0" />
+	</File>
+	<File name="src\GLFont.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="676" topLine="2" />
+	</File>
+	<File name="src\GLFont.h" open="1" top="1" tabpos="4">
+		<Cursor position="414" topLine="0" />
+	</File>
+	<File name="src\fps.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="298" topLine="9" />
+	</File>
+</CodeBlocks_layout_file>

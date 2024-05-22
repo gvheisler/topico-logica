@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1712614780 source:c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+	"gl_canvas2d.h"
+
+1712616818 c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<string>
+
+1712620668 c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\vector2.h
+
+1710341420 source:c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1712619584 source:c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\imagemanager.cpp
+	"ImageManager.h"
+	"gl_canvas2d.h"
+
+1712616352 c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\imagemanager.h
+	"Bmp.h"
+
+1712620992 source:c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"ManagerBotoes.h"
+
+1712619272 c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\managerbotoes.h
+	<vector>
+	"Botao.h"
+	"ImageManager.h"
+
+1712611394 c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\botao.h
+	"gl_canvas2d.h"
+
+1712619366 source:c:\users\gvhei\onedrive\햞ea de trabalho\topicos\cg\demos\trab1luizfelipe\src\managerbotoes.cpp
+	"ManagerBotoes.h"
+
